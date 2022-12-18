@@ -2,12 +2,14 @@ from Question1 import *
 from Question2 import *
 from Question3 import *
 from Question4 import *
+from Question5 import *
 
 
 Q1 = Question1()
 Q2 = Question2()
 Q3 = Question3()
 Q4 = Question4()
+Q5 = Question5()
 
 
 def main():
@@ -38,11 +40,16 @@ def main():
     print("A şıkkının cevabı : -> T =", a, "N")
     print("B şıkkının cevabı : -> T =", b, "N")
 
-    # Soru 3 :
+    # Soru 4 :
     print("Soru 4 ---------------------------")
 
     print("ivme  = ", Q4.findA())
     print("Fsürtünme  = ", Q4.findFs(), "N")
+
+    # Soru 5 :
+    print("Soru 5 ---------------------------")
+
+    print("DeltaX = ", Q5.findDistance(), "m")
 
 
 main()
