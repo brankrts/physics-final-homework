@@ -19,7 +19,7 @@ Testleri çalıştırmak için aşağıdaki komutu çalıştırın
   python main.py
 ```
 
-## Program Çıktıı 
+## Program Çıktısı 
 
 ```bash 
 Soru 1 ---------------------------
