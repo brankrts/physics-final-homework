@@ -10,7 +10,6 @@ class Question5:
         self.Vn = 4
         self.V1, self.V2 = 10, 10
         self.V1d, self.V2d = self.findDegree()
-        print(self.findComponents()[0][0])
         self.V1x, self.V1y, self.V2x, self.V2y = self.findComponents()[0][0], self.findComponents()[
             0][1], self.findComponents()[1][0], self.findComponents()[1][1]
         self.t1, self.t2 = self.findT()
