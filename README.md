@@ -3,7 +3,6 @@
 
 Fizik 1 dersi vize sorularının python dili ile gerçeklenmesi.
 
-
 ## Çalıştırma
 
 Testleri çalıştırmak için aşağıdaki komutu çalıştırın
@@ -18,4 +17,4 @@ Testleri çalıştırmak için aşağıdaki komutu çalıştırın
 
 ## Demo
 
-![](https://github.com/brankrts/physics-final-homework/tree/main/gif/gif.gif)
+![](https://github.com/brankrts/physics-final-homework/blob/main/gif/test.gif)
